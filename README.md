@@ -48,5 +48,3 @@ After training and validating the model, I proceeded to test its performance on 
 ## Conclusion
 This project demonstrates a comprehensive approach to multi-class image classification using the EfficientNetV2B3 model.
 
--------------------
-## Video Link ( https://drive.google.com/file/d/1C7m1MoIUuG6Hxeh57aKAKzNxVetkjhhb/view?usp=sharing )
